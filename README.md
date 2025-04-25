@@ -35,6 +35,7 @@ Welcome to my GitHub profile! I'm a passionate Backend Developer and DevOps Engi
 ## :bar_chart: My GitHub Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mbiacharetyron&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mbiacharetyron)](https://git.io/streak-stats)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mbiacharetyron&theme=dracula&show_icons=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mbiacharetyron&layout=compact&theme=dracula)
 [![trophy](https://github-profile-trophy.vercel.app/?username=mbiacharetyron&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
